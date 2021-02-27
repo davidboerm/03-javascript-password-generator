@@ -8,7 +8,13 @@ Assignment to modify existing code to enable functioning password generator
 - Includes options for uppercase, lowercase, numbers and symbol characters
 - Validates that at least one character type must be selected
 
-### Screencapture Example
-![screenshots of password generator functioning](images/screencapture.jpg)
+### Screenshot
+![screenshot of password generator](images/screenshot1.png)
+![screenshot of password generator](images/screenshot2.png)
+![screenshot of password generator](images/screenshot3.png)
+![screenshot of password generator](images/screenshot4.png)
+![screenshot of password generator](images/screenshot5.png)
+![screenshot of password generator](images/screenshot6.png)
 
 ### Link to deployed website
+https://davidboerm.github.io/03-javascript-password-generator/
