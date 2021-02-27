@@ -8,7 +8,7 @@ Assignment to modify existing code to enable functioning password generator
 - Includes options for uppercase, lowercase, numbers and symbol characters
 - Validates that at least one character type must be selected
 
-### Screenshot
+### Screenshots
 ![screenshot of password generator](images/screenshot1.png)
 ![screenshot of password generator](images/screenshot2.png)
 ![screenshot of password generator](images/screenshot3.png)
